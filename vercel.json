@@ -1,0 +1,14 @@
+{
+    "name": "Open-API",
+    "version": 2,
+    "builds": [
+        {
+            "src": "./index.js",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {"src": "/(.*)", "status": 404 ,"dest": "/" },
+        {"src": "/", "dest": "/"}
+    ]
+}

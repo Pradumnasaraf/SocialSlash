@@ -1,7 +1,8 @@
 const express = require("express");
 const fs = require('fs');
+const path = require('path');
 
-let rawdata = fs.readFileSync('links.json');
+let rawdata = fs.readFileSync(path.join(__dirname,'../public/links.json'));
 let links = JSON.parse(rawdata);
 
 const router = express.Router();

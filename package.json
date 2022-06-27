@@ -1,6 +1,6 @@
 {
   "name": "sociallink",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Access your social with a endpoints.",
   "main": "index.js",
   "scripts": {

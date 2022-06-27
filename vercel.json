@@ -7,8 +7,10 @@
             "use": "@vercel/node"
         }
     ],
-    "routes": [
-        {"src": "/(.*)", "status": 404 ,"dest": "/" },
-        {"src": "/", "dest": "/"}
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/"
+        }
     ]
 }

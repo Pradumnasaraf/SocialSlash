@@ -20,7 +20,7 @@ router.get("/github", (req, res) => {
     }
 })
 router.get("/twitter", (req, res) => {
-    if (links.twitter === '' || links.github === null) {
+    if (links.twitter === '' || links.twitter === null) {
         res.send("Link not found")
 
     } else {
@@ -28,7 +28,7 @@ router.get("/twitter", (req, res) => {
     }
 })
 router.get("/linkedin", (req, res) => {
-    if (links.linkedin === '' || links.github === null) {
+    if (links.linkedin === '' || links.linkedin === null) {
         res.send("Link not found")
 
     } else {
@@ -36,7 +36,7 @@ router.get("/linkedin", (req, res) => {
     }
 })
 router.get("/facebook", (req, res) => {
-    if (links.facebook === '' || links.github === null) {
+    if (links.facebook === '' || links.facebook === null) {
         res.send("Link not found")
 
     } else {
@@ -44,7 +44,7 @@ router.get("/facebook", (req, res) => {
     }
 })
 router.get("/hashnode", (req, res) => {
-    if (links.hashnode === '' || links.github === null) {
+    if (links.hashnode === '' || links.hashnode === null) {
         res.send("Link not found")
 
     } else {

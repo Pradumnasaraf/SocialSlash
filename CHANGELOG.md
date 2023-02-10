@@ -1,3 +1,12 @@
+# [1.6.0](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.5.0...v1.6.0) (2023-02-10)
+
+
+### Features
+
+* Dockerize the app ([#12](https://github.com/Pradumnasaraf/SocialSlash/issues/12)) ([2669626](https://github.com/Pradumnasaraf/SocialSlash/commit/266962670bfc4221169ac4e5ca6a16cd4e7b3e2f))
+
+
+
 # [1.5.0](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.4.0...v1.5.0) (2023-02-10)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * config in vercel.json ([f650c47](https://github.com/Pradumnasaraf/SocialSlash/commit/f650c47901c1681a1588a4560d80eea224bbbb5c))
-
-
-
-# [1.2.0](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.1.0...v1.2.0) (2022-06-26)
-
-
-### Features
-
-* Added public folder for data ([653657e](https://github.com/Pradumnasaraf/SocialSlash/commit/653657e9df4d9ee06cb5e2f6906b0cc19726c4c4))
 
 
 

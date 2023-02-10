@@ -12,6 +12,9 @@
 - [Express.js](https://expressjs.com/)
 - [Vercel](https://vercel.com/)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPradumnasaraf%2FSocialSlash)
+
+
 ## 👨‍💻 Developing the project
 
 This section includes how to test and develop API at your end. You can either run it in the cloud using **Gitpod** or run it inside a container using **docker** or choose to set up the complete environment locally.
@@ -32,13 +35,13 @@ docker compose up
 
 **Local setup**
 
-Prerequisites- Node.js and npm installed in your local system. Also make sure you have cloned and installed all the dependencies.
+Prerequisites - Node.js and npm installed in your local system. Also make sure you have cloned and installed all the dependencies.
 
 ```js
 npm run dev
 ```
 
-You can access the API at localhost:9001
+You can access the API at localhost:9002
 
 ## 🛡️ License
 

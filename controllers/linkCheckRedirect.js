@@ -11,7 +11,7 @@ const linkCheckRedirect = (req, res) => {
   if (isUrlAvailable) {
     res.redirect(links[endpoint]);
   } else {
-    res.status(404).send("The requesed endpoint is not available");
+    res.status(404).send(`Endpoint /${endpoint} not found`);
   }
 };
 

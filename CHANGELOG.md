@@ -1,3 +1,12 @@
+# [1.5.0](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.4.0...v1.5.0) (2023-02-10)
+
+
+### Features
+
+* add config folder and env POST support ([684c15b](https://github.com/Pradumnasaraf/SocialSlash/commit/684c15be8e810820a1f210590122c3d1e6ae755d))
+
+
+
 # [1.4.0](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.3.0...v1.4.0) (2023-02-10)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added public folder for data ([653657e](https://github.com/Pradumnasaraf/SocialSlash/commit/653657e9df4d9ee06cb5e2f6906b0cc19726c4c4))
-
-
-
-# [1.1.0](https://github.com/Pradumnasaraf/SocialSlash/compare/44d71fc400aacac423f75754a2b44bf6d52cbc4e...v1.1.0) (2022-06-25)
-
-
-### Features
-
-* Add initial files ([44d71fc](https://github.com/Pradumnasaraf/SocialSlash/commit/44d71fc400aacac423f75754a2b44bf6d52cbc4e))
 
 
 

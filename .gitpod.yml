@@ -1,5 +1,3 @@
 tasks:
-  - init: npm install 
-    command: node index.js 
-
-
+  - init: npm ci
+    command: npm run dev

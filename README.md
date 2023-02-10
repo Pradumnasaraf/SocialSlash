@@ -12,7 +12,28 @@
 - [Express.js](https://expressjs.com/)
 - [Vercel](https://vercel.com/)
 
+
+## 🚀 Using and deploying the project
+
+After forking the project. Add you links with the endpoints in the [config/links.json](/config) file. You can add your custom endpoints as many as you want.
+
+```json
+{
+  "github": "https://github.com/Pradumnasaraf",
+  "linkedin": "https://www.linkedin.com/in/pradumnasaraf",
+  "facebook": "https://www.facebook.com/pradumnasaraf.dev",
+  "hashnode": "https://blog.pradumnasaraf.dev",
+  "twitter": "https://twitter.com/pradumna_saraf",
+  "instagram": "https://www.instagram.com/pradumnasaraf"
+}
+```
+
+That's it. You are ready to deploy the project. You can deploy it using the button below.
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPradumnasaraf%2FSocialSlash)
+
+Now you can access your links by hitting the endpoint. For example, if you want to access your github profile, you can hit `https://your-deployed-url-on-vercel/github` and you will be redirected to your github profile.
+
 
 ## 👨‍💻 Developing the project
 

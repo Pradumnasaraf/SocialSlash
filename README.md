@@ -14,7 +14,7 @@
 
 ## 🚀 Using and deploying the project
 
-After forking the project. Add your links with the endpoints in the [`config/links.json`](/config/config.js) file. You can add your custom endpoints as many as you want.
+After forking the project. Add your links with the endpoints in the [`config/links.json`](/config/links.json) file. You can add your custom endpoints as many as you want.
 
 ```json
 {

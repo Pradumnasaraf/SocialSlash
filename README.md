@@ -4,6 +4,8 @@
 
 <h4>Access all your social media and links by hitting endpoint.</h4>
 
+[![Format](https://github.com/Pradumnasaraf/SocialSlash/actions/workflows/prettier.yml/badge.svg)](https://github.com/Pradumnasaraf/SocialSlash/actions/workflows/prettier.yml) [![Publish Image to GitHub Container Registry](https://github.com/Pradumnasaraf/SocialSlash/actions/workflows/publish-ghcr.yml/badge.svg)](https://github.com/Pradumnasaraf/SocialSlash/actions/workflows/publish-ghcr.yml) [![Releases](https://github.com/Pradumnasaraf/SocialSlash/actions/workflows/releases.yml/badge.svg)](https://github.com/Pradumnasaraf/SocialSlash/actions/workflows/releases.yml)
+
 </div>
 
 ## 👨‍💻 Tech stack

@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  node-app:
+    container_name: socialslash-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        NODE_ENV: development
+    image: socialslash
+    command: npm run dev
+    ports:
+      - 9002:9002
+    volumes:
+      - .:/app
+      - /app/node_modules

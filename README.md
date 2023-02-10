@@ -59,7 +59,7 @@ Prerequisites - Node.js and npm installed in your local system. Also make sure y
 npm run dev
 ```
 
-You can access the API at localhost:9002
+You can access the API at `localhost:9002`
 
 ## 🛡️ License
 

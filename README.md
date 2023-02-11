@@ -16,11 +16,11 @@
 
 ## 🚀 Using and deploying the project
 
-- You can deploy the project on [Vercel](https://vercel.com/) by clicking the button below. It will clone the project in your GitHub account and you can deploy it on Vercel.
+- You can deploy the project on [Vercel](https://vercel.com/) by clicking the button below. It will clone the project in your GitHub account and you can deploy it on Vercel (While deploying, Vercel with ask name for the cloned project).
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPradumnasaraf%2FSocialSlash)
 
-- The cloned project will have the default links (of Pradumna Saraf). To change the links, update the `config/links.json` file with your links in your cloned repository. You can add as many links as you want with custom names. The structure of the file is as follows:\
+- The cloned project will have the default links (of Pradumna Saraf). To change the links, update the `config/links.json` file with your links in your cloned repository. You can add as many links as you want with custom names. The structure of the file is as follows:
 
 ```json
 {
@@ -33,7 +33,7 @@
 }
 ```
 
-- Now you can access your links by hitting the endpoint. For example, if you want to access your GitHub profile, you can hit `https://your-deployed-url-on-vercel/github` and you will be redirected to your GitHub profile.
+- Now Vercel will automatically redeploy the project with your links. After the deployment is complete, you can access your links by hitting the endpoint. For example, if you want to access your GitHub profile, you can hit `https://your-deployed-url-on-vercel/github` and you will be redirected to your GitHub profile.
 
 (You can also fork the project and deploy by yourself on Vercel)
 

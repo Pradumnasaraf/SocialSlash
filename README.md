@@ -16,7 +16,11 @@
 
 ## 🚀 Using and deploying the project
 
-After forking the project. Add your links with the endpoints in the [`config/links.json`](/config/links.json) file. You can add your custom endpoints as many as you want.
+- You can deploy the project on [Vercel](https://vercel.com/) by clicking the button below. It will clone the project in your GitHub account and you can deploy it on Vercel.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPradumnasaraf%2FSocialSlash)
+
+- The cloned project will have the default links (of Pradumna Saraf). To change the links, update the [`config/links.json`](/config/links.json) file with your links in your cloned repository. You can add as many links as you want with custom names. The structure of the file is as follows:\
 
 ```json
 {
@@ -29,11 +33,9 @@ After forking the project. Add your links with the endpoints in the [`config/lin
 }
 ```
 
-That's it. You are ready to deploy the project. You can deploy it using the button below.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPradumnasaraf%2FSocialSlash)
-
 Now you can access your links by hitting the endpoint. For example, if you want to access your github profile, you can hit `https://your-deployed-url-on-vercel/github` and you will be redirected to your github profile.
+
+(You can also fork the project and deploy by yousself on the Vercel)
 
 ## 👨‍💻 Developing the project
 

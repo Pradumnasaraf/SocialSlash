@@ -33,9 +33,9 @@
 }
 ```
 
-Now you can access your links by hitting the endpoint. For example, if you want to access your github profile, you can hit `https://your-deployed-url-on-vercel/github` and you will be redirected to your github profile.
+Now you can access your links by hitting the endpoint. For example, if you want to access your GitHub profile, you can hit `https://your-deployed-url-on-vercel/github` and you will be redirected to your GitHub profile.
 
-(You can also fork the project and deploy by yousself on the Vercel)
+(You can also fork the project and deploy by yourself on Vercel)
 
 ## 👨‍💻 Developing the project
 

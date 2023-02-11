@@ -20,7 +20,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPradumnasaraf%2FSocialSlash)
 
-- The cloned project will have the default links (of Pradumna Saraf). To change the links, update the [`config/links.json`] file with your links in your cloned repository. You can add as many links as you want with custom names. The structure of the file is as follows:\
+- The cloned project will have the default links (of Pradumna Saraf). To change the links, update the `config/links.json` file with your links in your cloned repository. You can add as many links as you want with custom names. The structure of the file is as follows:\
 
 ```json
 {

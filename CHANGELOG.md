@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.6.0...v1.6.1) (2023-05-31)
+
+
+### Bug Fixes
+
+* Add version to DockerHub and GHCR images ([0015cda](https://github.com/Pradumnasaraf/SocialSlash/commit/0015cda0ed7183c7577da536a16e1ca88504c5f8))
+
+
+
 # [1.6.0](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.5.0...v1.6.0) (2023-02-10)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * refactored router.js ([#8](https://github.com/Pradumnasaraf/SocialSlash/issues/8)) ([c7cccc7](https://github.com/Pradumnasaraf/SocialSlash/commit/c7cccc7834a12133b5c5730be91c62123275bb9f))
-
-
-
-## [1.2.1](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.2.0...v1.2.1) (2022-06-27)
-
-
-### Bug Fixes
-
-* config in vercel.json ([f650c47](https://github.com/Pradumnasaraf/SocialSlash/commit/f650c47901c1681a1588a4560d80eea224bbbb5c))
 
 
 

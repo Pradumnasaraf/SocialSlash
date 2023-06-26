@@ -11,5 +11,5 @@ app.use(router);
 app.use(notFound);
 
 app.listen(PORT, () => {
-  console.log(`Server started at http://localhost:${PORT}`);
+  console.log(`Server started at http://localhost:${PORT}.`);
 });

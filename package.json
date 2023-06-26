@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js ",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "lint": "eslint ."
   },
   "keywords": [
     "node",
@@ -17,12 +18,17 @@
   ],
   "author": "Pradumna Saraf",
   "license": "GPL-3.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
-    "dotenv": "^16.0.3",
-    "express": "^4.18.1"
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.18",
-    "prettier": "^2.8.4"
+    "eslint": "^8.43.0",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.8"
   }
 }

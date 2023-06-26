@@ -1,10 +1,11 @@
-const express = require("express");
+import express from "express";
+
 const router = express.Router();
 
-const getRoot = require("../controllers/getRoot");
-const linkCheckRedirect = require("../controllers/linkCheckRedirect");
+import getRoot from "../controllers/getRoot.js";
+import linkCheckRedirect from "../controllers/linkCheckRedirect.js";
 
 router.get("/", getRoot);
 router.get("/:endpoint", linkCheckRedirect);
 
-module.exports = router;
+export default router;

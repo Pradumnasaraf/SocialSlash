@@ -1,3 +1,12 @@
+# [1.7.0](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.6.2...v1.7.0) (2023-06-26)
+
+
+### Features
+
+* change repo to ES6 ([510fed8](https://github.com/Pradumnasaraf/SocialSlash/commit/510fed88fbd2285913e7832ec1e1c687857cf8d2))
+
+
+
 ## [1.6.2](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.6.0...v1.6.2) (2023-05-31)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * refactor the API ([#10](https://github.com/Pradumnasaraf/SocialSlash/issues/10)) ([8e3ef98](https://github.com/Pradumnasaraf/SocialSlash/commit/8e3ef985f084cbf3ee4f96ce26eb99f6a7ba765a))
-
-
-
-# [1.3.0](https://github.com/Pradumnasaraf/SocialSlash/compare/v1.2.1...v1.3.0) (2022-08-12)
-
-
-### Features
-
-* refactored router.js ([#8](https://github.com/Pradumnasaraf/SocialSlash/issues/8)) ([c7cccc7](https://github.com/Pradumnasaraf/SocialSlash/commit/c7cccc7834a12133b5c5730be91c62123275bb9f))
 
 
 
